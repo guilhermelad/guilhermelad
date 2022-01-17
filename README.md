@@ -7,7 +7,7 @@
 
 
 <h2 dir="auto"></h2>
-<p aling= "center"><b>💬Português: </b>Olá meu nome é Guilherme, tenho 23 anos e sou do brasil. Atualmente estudo Analise e Desenvolvimento de sistemas na universidade Anhembi Morumbi. Eu gosto muito de trabalhar com back-end e banco de dados. Estudo e trabalho com desenvolvimento Full Stack utilizando tecnologias como:</p>
+<p aling= "center"><b>💬Português: </b>Olá meu nome é Guilherme, tenho 23 anos e sou do Brasil. Atualmente estudo Analise e Desenvolvimento de sistemas na universidade Anhembi Morumbi. Eu gosto muito de trabalhar com back-end e banco de dados. Estudo e trabalho com desenvolvimento Full Stack utilizando tecnologias como:</p>
 <div dir="auto">
  <br>
  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="max-width: 100%;">
