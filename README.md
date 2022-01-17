@@ -1,9 +1,5 @@
 # Hi, welcome to my GitHub 😃
 
-<div dir="auto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 70%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelad&layout=compact&langs_count=7&theme=radical" style="max-width: 70%;">
-</div>
 
 
 <h2 dir="auto"></h2>
@@ -49,5 +45,10 @@
 <a href="mailto:gui.o.ladeira@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%">
 </a>
+<h2 dir="auto"></h2>
+<div dir="auto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 70%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelad&layout=compact&langs_count=7&theme=radical" style="max-width: 70%;">
+</div>
 
 
