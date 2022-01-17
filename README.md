@@ -7,7 +7,7 @@
 
 
 <h2 dir="auto"></h2>
-<p aling= "center"><b>💬Português: </b>Olá meu nome é Guilherme, tenho 23 anos e sou do Brasil. Atualmente estudo Analise e Desenvolvimento de sistemas na universidade Anhembi Morumbi. Eu gosto muito de trabalhar com back-end e banco de dados. Estudo e trabalho com desenvolvimento Full Stack utilizando tecnologias como:</p>
+<p aling= "center"><b>💬Português: </b>Olá meu nome é Guilherme, tenho 23 anos e sou do Brasil. Atualmente estudo Analise e Desenvolvimento de sistemas na universidade Anhembi Morumbi. Eu gosto de trabalhar com back-end e banco de dados. Estudo e trabalho com desenvolvimento Full Stack utilizando tecnologias como:</p>
 <div dir="auto">
  <br>
  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="max-width: 100%;">
@@ -23,7 +23,7 @@
 
 <h2 dir="auto"></h2>
 
-<p aling= "center"><b>💬English: </b>Hello my name is Guilherme, I'm 23 years old and I'm from Brazil. I am currently studying Systems Analysis and Development at Anhembi Morumbi University. I really like working with backend and database. Study and work with Full Stack development using technologies such as:</p>
+<p aling= "center"><b>💬English: </b>Hello my name is Guilherme, I'm 23 years old and I'm from Brazil. I am currently studying Systems Analysis and Development at Anhembi Morumbi University. I like working with backend and database. Study and work with Full Stack development using technologies such as:</p>
 
 <div dir="auto">
  <br>
