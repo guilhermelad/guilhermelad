@@ -1,54 +1,58 @@
-# Hi, welcome to my GitHub 😃
+# 👋 Hi, welcome to my GitHub!
 
+<p align="center">Sou apaixonado por desenvolvimento e tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições. 🚀</p>
 
+---
 
-<h2 dir="auto"></h2>
-<p aling= "center"><b>💬Português: </b>Olá meu nome é Guilherme, tenho 25 anos e sou do Brasil. Atualmente estudo Analise e Desenvolvimento de sistemas na universidade Anhembi Morumbi. Eu gosto de trabalhar com back-end e banco de dados. Estudo e trabalho com desenvolvimento Full Stack utilizando tecnologias como:</p>
-<div dir="auto">
- <br>
- <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-  -
-  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" style="max-width: 100%;">
-  -
-  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="max-width: 100%;">
-  -
-      <img align="center" heigt="20" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="max-width: 100%;">
-  -
-    <img align="center" heigt="20" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="max-width: 100%;">
-</div>
+## 💬 Sobre mim | About me
 
-<h2 dir="auto"></h2>
+**🇧🇷 Português:**  
+Olá! Meu nome é **Guilherme**, tenho 25 anos e sou do **Brasil**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**.  
+Tenho foco em desenvolvimento **Back-end**, mas também atuo como **Full Stack**, com gosto especial por **bancos de dados**.  
 
-<p aling= "center"><b>💬English: </b>Hello my name is Guilherme, I'm 25 years old and I'm from Brazil. I am currently studying Systems Analysis and Development at Anhembi Morumbi University. I like working with backend and database. Study and work with Full Stack development using technologies such as:</p>
+**🇺🇸 English:**  
+Hi! My name is **Guilherme**, I'm 25 years old and from **Brazil**.  
+I'm currently studying **Systems Analysis and Development** at **Anhembi Morumbi University**.  
+I focus on **Back-end development**, but I also work as a **Full Stack developer**, especially enjoying **databases**.
 
-<div dir="auto">
- <br>
-  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-  -
-  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" style="max-width: 100%;">
-  -
-  <img align="center" heigt="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="max-width: 100%;">
-  -
-      <img align="center" heigt="20" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="max-width: 100%;">
-  -
-    <img align="center" heigt="20" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="max-width: 100%;">
-</div>
+---
 
-<h2 dir="auto"></h2>
+## 🧠 Tecnologias que uso | Technologies I use
 
-<a href="https://www.instagram.com/guilhermelad/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%">
-</a>
-<a href="https://www.linkedin.com/in/guilhermelad/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%">
-</a>
-<a href="mailto:gui.o.ladeira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%">
-</a>
-<h2 dir="auto"></h2>
-<div dir="auto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 70%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelad&layout=compact&langs_count=7&theme=radical" style="max-width: 70%;">
-</div>
+<p align="center">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  &nbsp;
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  &nbsp;
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelad&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo | Connect with me
+
+<p align="center">
+  <a href="https://www.instagram.com/guilhermelad/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermelad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gui.o.ladeira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
