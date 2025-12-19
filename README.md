@@ -59,8 +59,7 @@ My main focus is **Back-end**, but I also work as a **Full Stack developer** whe
 
 - Scripts e recursos (Lua/JS), integrações e automações  
 - Sistemas para RP: jobs, inventário, UI/NUI, logs, permissões, etc  
-- Performance e organização: modularização, banco bem pensado, “menos gambiarra, mais estrutura” 😄
-
+- Performance e organização
 ---
 
 ## 📌 O que você vai achar por aqui
