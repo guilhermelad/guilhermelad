@@ -23,12 +23,12 @@
 **🇧🇷 Português**  
 Meu nome é **Guilherme**, tenho **27 anos** e sou do **Brasil**.  
 Curso **Engenharia de Software** e trabalho com **desenvolvimento voltado para FiveM** (servidor RP, scripts e sistemas).  
-Meu foco é **Back-end**, mas atuo como **Full Stack** quando o projeto pede — com um carinho especial por **bancos de dados**.
+Meu foco é **Back-end**, mas atuo como **Full Stack** quando o projeto pede.
 
 **🇺🇸 English**  
 Hi! I’m **Guilherme**, **27 years old**, from **Brazil**.  
 I study **Software Engineering** and currently work with **FiveM development** (RP servers, scripts and systems).  
-My main focus is **Back-end**, but I also work as a **Full Stack developer** when needed — especially enjoying **databases**.
+My main focus is **Back-end**, but I also work as a **Full Stack developer** when needed.
 
 ---
 
